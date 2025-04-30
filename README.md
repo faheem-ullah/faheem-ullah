@@ -1,9 +1,25 @@
 🚀 Website Developer | Team Lead | Country Site Manager & CTO
 
-I am a professional website developer and team lead with expertise in Laravel, JavaScript, PHP, MySQL, PostgreSQL, and Django. With 8 years of experience in PHP, 6 years in Laravel, and 3 years in Django, I have worked extensively on system design, architecture, and development.
+👋 Hi, I'm **Faheem Ullah**, a Backend-Focused Full Stack Developer & Team Lead with over 6 years of experience building secure, scalable, and performance-driven web applications.
 
-I have successfully led teams and worked independently to deliver high-quality projects and products. My leadership experience includes managing development teams, overseeing technical implementations, and ensuring smooth project execution.
+💻 **Tech Stack**:  
+- **Backend**: Laravel (PHP), Django (Python), REST APIs, OAuth2, JWT, Laravel Passport  
+- **Databases**: PostgreSQL, MySQL – complex queries, migrations, optimization  
+- **Frontend (when needed)**: React.js, Next.js, Tailwind, Bootstrap  
+- **Other Tools**: Git, Docker, Firebase, Chrome Extensions, Web Scrapers
 
-Recently, I was promoted to Country Site Manager & CTO, where I oversee the technical aspects of our products, lead hiring efforts, and manage staff to drive innovation and efficiency.
+🚀 **Projects I've Worked On**:  
+- [CryptoAutos](https://cryptoautos.com) – Team Lead & Full Stack  
+- [EXLink](https://exlink.com) – LinkedIn scrapper platform  
+- [AutoCoinCars](https://autocoincars.com) – Car listing marketplace  
+- [CastleGym](https://beta.castlegymnottingham.co.uk) – Gym CMS  
+- [The Why App](https://play.google.com/store/apps/details?id=com.khanqahazadi...) – Meditation app (React + Firebase + Python)
 
-Let’s connect on email (engr.faheem.ullah@gmail.com) and collaborate!
+🔐 I specialize in:
+- Building RESTful APIs
+- Secure authentication & authorization
+- Database design and performance tuning
+- Leading dev teams and delivering production-ready solutions
+
+📫 Let's connect: **engr.faheem.ullah@gmail.com**  
+🌍 Based in Pakistan | Open to remote global opportunities
